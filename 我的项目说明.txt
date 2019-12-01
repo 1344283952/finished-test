@@ -1,2 +1,3 @@
 this is my project illustrate.
 goal £ºstudy C# and show it to someone all over the world.
+members:wzd,pl,wyx,zxy,jmf.
