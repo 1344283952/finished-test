@@ -2,3 +2,4 @@ this is my project illustrate.
 goal £ºstudy C# and show it to someone all over the world.
 members:wzd,pl,wyx,zxy,jmf.
 budget:800$
+time:2020.01~2020.05.31
